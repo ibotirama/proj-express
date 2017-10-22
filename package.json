@@ -9,6 +9,7 @@
   "author": "Pedro Henrique",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.16.2",
     "yard": "^1.0.3"
   },
